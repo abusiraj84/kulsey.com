@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "637072309587",
+    "firebase_url": "https://kulsey-d913f.firebaseio.com",
+    "project_id": "kulsey-d913f",
+    "storage_bucket": "kulsey-d913f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637072309587:android:c568aaf3001438c86035a6",
+        "android_client_info": {
+          "package_name": "com.example.kulsey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637072309587-i7bt2pj7o0oh95vehpi6217jcfs20cfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU8QYJ3mLPyK4BHOJpnvNvzSJ-TsVdYzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637072309587-i7bt2pj7o0oh95vehpi6217jcfs20cfc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "637072309587-5j4omnr3l4gmkslduau55kndmocljokp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kulsey"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
