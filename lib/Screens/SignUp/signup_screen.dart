@@ -1,12 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:kulsey/Screens/HomeScreen.dart';
 import 'package:kulsey/Screens/Login/login_screen.dart';
 import 'package:kulsey/services/auth_service.dart';
 import 'package:kulsey/utileties/globals.dart' as global;
 import 'package:page_transition/page_transition.dart';
 
-import '../root_screen.dart';
 
 
 class SignupScreen extends StatefulWidget {

@@ -1,4 +1,3 @@
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:kulsey/Screens/favorite.dart';
 import 'package:kulsey/Screens/profile.dart';
@@ -39,7 +38,6 @@ class _HomeState extends State<Home> {
 
 @override
   void initState() {
-    // TODO: implement initState
     super.initState();
    
 

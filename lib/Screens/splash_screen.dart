@@ -3,12 +3,10 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:kulsey/Screens/HomeScreen.dart';
 import 'package:kulsey/Screens/root_screen.dart';
-import 'package:kulsey/Screens/select_country.dart';
 import 'package:kulsey/services/auth_service.dart';
 
 import 'package:kulsey/utileties/globals.dart' as global;
 import 'package:page_transition/page_transition.dart';
-import 'Login/login_screen.dart';
 
 class SplashScreen extends StatefulWidget {
 
